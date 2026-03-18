@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-cout << “FEATURE 2 VERSION!” << endl;
+cout << “FEATURE 2 VERSION AND MAIN!” << endl;
 cout << "Hi, Haley" << endl;
 return 0;
 }
