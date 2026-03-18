@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-cout << “Hello from main branch!” << endl;
+cout << “MAIN VERSION!” << endl;
 cout << "Hi, Haley" << endl;
 return 0;
 }
